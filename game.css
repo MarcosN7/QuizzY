@@ -41,8 +41,11 @@
   }
   
   .hud-prefix {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    color: black;
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
   }
   
   .hud-main-text {
