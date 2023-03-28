@@ -28,7 +28,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Quem criou a Primeira Linguagem de programção??",
+    question: "Quem criou a Primeira Linguagem de programação??",
     choice1: "Bill Gates",
     choice2: "Herman Hollerith",
     choice3: "John Shepard",
